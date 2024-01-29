@@ -1,0 +1,56 @@
+
+*{
+text-align: center;
+}
+
+div{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+span{
+
+   display: inline-block;
+   text-align: center;
+   /* position: relative;  */
+   margin: 2px;
+   width: 100px;
+    height: 100px;
+    /* text-align: center; */
+    /* text-align: center; */
+    /* align-items: center; */
+   
+}
+
+#red{
+
+    background-color: red;
+   
+}
+
+#green{
+
+    background-color: green;
+   
+  
+}
+
+#blue{
+    background-color:blue;
+    
+}
+
+#yellow{
+
+    background-color: yellow;
+    
+}
+
+
+
+
+
+

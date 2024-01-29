@@ -1,0 +1,75 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+
+    height:100%;
+    width:100%;
+    background-color: rgba(15, 15, 16, 0.824);
+}
+.main{
+    height:100%;
+    width:100%;
+    text-align: center;
+    margin-top: 10px;
+    background-color: aliceblue;
+    /* background-color: rgb(21, 84, 84); */
+   
+
+}
+.container{
+    height:50%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    background-color: rgb(21, 84, 84);
+    text-align: center;
+   
+   
+}
+.container h1{
+   text-align: center;
+    
+   
+}
+#snake img{
+   
+    cursor: pointer;
+}
+
+#water{
+    cursor: pointer;
+}
+
+#gun{
+    cursor: pointer;
+}
+
+
+    .imgclass img{
+padding: 40px;
+margin-top: 10px;
+
+border-radius: 100px;
+
+    }
+
+    .main h1{
+
+        color: rgb(49, 165, 165);
+        
+    }
+
+    #result{
+
+        height: 10px;
+    }
+
+    .container h5{
+
+        display: inline;
+    }
